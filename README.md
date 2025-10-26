@@ -16,7 +16,7 @@ Perfect for teachers, parents, and young learners to explore, play, and learn in
 StoryVerse Land brings storytelling and learning together. Each personalized storybook is designed not just to entertain, but to nurture curiosity, empathy, and creativity in children.  
 Our goal is to make reading an *experience* — one that grows with each child.
 
-Visit us at [StoryVerseLand.com](https://www.StoryVerseLand.com) to explore our personalized books.
+Visit us at <a href="https://www.storyverseland.com" target="_blank">StoryVerseLand.com</a> to explore our personalized books.
 
 ---
 
@@ -25,16 +25,16 @@ Visit us at [StoryVerseLand.com](https://www.StoryVerseLand.com) to explore our 
 We proudly collaborate with **NGOs, authors, illustrators, and educational organizations** to help them bring their stories to life as personalized books.  
 We also **partner for social causes** — supporting literacy, inclusion, environmental awareness, and emotional well-being among children through storytelling and access to free digital books.
 
-As part of our outreach, we’ve contributed to global initiatives such as the **Stories with Clever Hedgehog** project, which provides free eBooks for displaced Ukranian children:  
-- 🌍 [https://www.ebooks4ukrkids.org/storyverse-land-clever-hedgehog/](https://www.ebooks4ukrkids.org/storyverse-land-clever-hedgehog/)  
-- 🦔 [https://cleverhedgehog.storyverseland.com/](https://cleverhedgehog.storyverseland.com/)
+As part of our outreach, we’ve contributed to global initiatives such as the **Stories with Clever Hedgehog** project, which provides free eBooks for displaced Ukrainian children:  
+- 🌍 <a href="https://www.ebooks4ukrkids.org/storyverse-land-clever-hedgehog/" target="_blank">ebooks4ukrkids.org/storyverse-land-clever-hedgehog</a>  
+- 🦔 <a href="https://cleverhedgehog.storyverseland.com/" target="_blank">cleverhedgehog.storyverseland.com</a>
 
 Our platform provides:
 - A **personalization engine** that enables readers to customize stories with names, avatars, and messages.  
 - A robust **hosting and publishing system** to feature books directly on our platform.  
 - End-to-end **print-on-demand support**, ensuring high-quality printing and delivery across **Asia, Southeast Asia, ANZ, and Europe**.
 
-If you’re an organization or creator passionate about storytelling, learning, or social impact, we’d love to collaborate. Reach out via [StoryVerseLand.com](https://www.StoryVerseLand.com).
+If you’re an organization or creator passionate about storytelling, learning, or social impact, we’d love to collaborate. Reach out via <a href="https://www.storyverseland.com" target="_blank">StoryVerseLand.com</a>.
 
 ---
 
@@ -44,7 +44,7 @@ StoryVerse Land also organizes **KidLit storytelling sessions, author interactio
 These events bring stories to life — encouraging imagination, confidence, and a love for reading.
 
 Discover upcoming events and register here:  
-👉 [https://www.storyverseland.com/kidlit-events](https://www.storyverseland.com/kidlit-events)
+👉 <a href="https://www.storyverseland.com/kidlit-events" target="_blank">storyverseland.com/kidlit-events</a>
 
 ---
 
