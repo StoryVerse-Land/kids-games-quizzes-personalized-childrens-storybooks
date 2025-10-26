@@ -25,7 +25,7 @@ Visit us at [storyverseland.com](https://www.storyverseland.com) to explore our 
 We proudly collaborate with **NGOs, authors, illustrators, and educational organizations** to help them bring their stories to life as personalized books.  
 We also **partner for social causes** — supporting literacy, inclusion, environmental awareness, and emotional well-being among children through storytelling and access to free digital books.
 
-As part of our outreach, we’ve contributed to global initiatives such as the **Stories with Clever Hedgehog** project, which provides free eBooks for displaced and multilingual children:  
+As part of our outreach, we’ve contributed to global initiatives such as the **Stories with Clever Hedgehog** project, which provides free eBooks for displaced Ukranian children:  
 - 🌍 [https://www.ebooks4ukrkids.org/storyverse-land-clever-hedgehog/](https://www.ebooks4ukrkids.org/storyverse-land-clever-hedgehog/)  
 - 🦔 [https://cleverhedgehog.storyverseland.com/](https://cleverhedgehog.storyverseland.com/)
 
