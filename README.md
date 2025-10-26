@@ -48,6 +48,16 @@ Discover upcoming events and register here:
 
 ---
 
+## 🪄 Dream Log · Insights & Ideas
+
+StoryVerse Land also publishes thoughtful articles and insights through our blog, the **Dream Log**.  
+These articles explore creativity, learning, storytelling, and personal growth — offering readers meaningful takeaways and fresh ideas to nurture imagination and awareness.
+
+Read the latest posts here:  
+👉 <a href="https://www.storyverseland.com/blog" target="_blank">storyverseland.com/blog</a>
+
+---
+
 ## 🔒 Repository Policy
 
 This repository is **public and free to download**, but it is **read-only**.  
