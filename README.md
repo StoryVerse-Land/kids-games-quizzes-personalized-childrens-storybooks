@@ -16,7 +16,7 @@ Perfect for teachers, parents, and young learners to explore, play, and learn in
 StoryVerse Land brings storytelling and learning together. Each personalized storybook is designed not just to entertain, but to nurture curiosity, empathy, and creativity in children.  
 Our goal is to make reading an *experience* — one that grows with each child.
 
-Visit us at [storyverseland.com](https://www.storyverseland.com) to explore our personalized books.
+Visit us at [StoryVerseLand.com](https://www.StoryVerseLand.com) to explore our personalized books.
 
 ---
 
@@ -34,7 +34,7 @@ Our platform provides:
 - A robust **hosting and publishing system** to feature books directly on our platform.  
 - End-to-end **print-on-demand support**, ensuring high-quality printing and delivery across **Asia, Southeast Asia, ANZ, and Europe**.
 
-If you’re an organization or creator passionate about storytelling, learning, or social impact, we’d love to collaborate. Reach out via [storyverseland.com](https://www.storyverseland.com).
+If you’re an organization or creator passionate about storytelling, learning, or social impact, we’d love to collaborate. Reach out via [StoryVerseLand.com](https://www.StoryVerseLand.com).
 
 ---
 
