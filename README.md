@@ -65,5 +65,12 @@ Only authorized maintainers can upload or modify content.
 Materials may be cloned, printed, or used for personal or educational purposes, but redistribution or resale is not permitted.
 
 ---
+## License
+All educational materials in this repository — including quizzes, paintbooks, spelling bees, and printable activities —  
+are licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+© 2025 StoryVerse Land and Contributors.  
+Free for educational and personal use — not for resale or modification.
+
 
 © StoryVerse Land. All rights reserved.
