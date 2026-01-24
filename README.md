@@ -60,7 +60,7 @@ Read the latest posts at:
 
 ## 📚 Parental Resources
 
-A FREE print-at-home colouring adventure! - https://mailchi.mp/storyverseland/signup-gift
+A FREE print-at-home colouring adventure! - https://mailchi.mp/storyverseland/signup-gift <br>
 A FREE Bedtime Questions Pack - https://mailchi.mp/storyverseland/bedtime-questions
 
 ---
